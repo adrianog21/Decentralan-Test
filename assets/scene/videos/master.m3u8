@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-low",NAME="Original",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://3vod-adaptive.akamaized.net/exp=1699897800~acl=%2Ff9a2f346-93c4-4e2d-b1a0-383efcbd9be2%2F%2A~hmac=69516308e5314b3c09d555a596bdf0e4dd9c8d7c9dfc1aa846576e0e8f339668/f9a2f346-93c4-4e2d-b1a0-383efcbd9be2/sep/audio/843b2649/playlist.m3u8?query_string_ranges=1"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-high",NAME="Original",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://3vod-adaptive.akamaized.net/exp=1699897800~acl=%2Ff9a2f346-93c4-4e2d-b1a0-383efcbd9be2%2F%2A~hmac=69516308e5314b3c09d555a596bdf0e4dd9c8d7c9dfc1aa846576e0e8f339668/f9a2f346-93c4-4e2d-b1a0-383efcbd9be2/sep/audio/084d3aa2/playlist.m3u8?query_string_ranges=1"
+
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,BANDWIDTH=1847387,AVERAGE-BANDWIDTH=1572000,RESOLUTION=960x540,FRAME-RATE=30.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio-low"
+https://3vod-adaptive.akamaized.net/exp=1699897800~acl=%2Ff9a2f346-93c4-4e2d-b1a0-383efcbd9be2%2F%2A~hmac=69516308e5314b3c09d555a596bdf0e4dd9c8d7c9dfc1aa846576e0e8f339668/f9a2f346-93c4-4e2d-b1a0-383efcbd9be2/sep/video/084d3aa2/playlist.m3u8?query_string_ranges=1
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,BANDWIDTH=3489451,AVERAGE-BANDWIDTH=2829000,RESOLUTION=1280x720,FRAME-RATE=30.000,CODECS="avc1.640020,mp4a.40.2",AUDIO="audio-high"
+https://3vod-adaptive.akamaized.net/exp=1699897800~acl=%2Ff9a2f346-93c4-4e2d-b1a0-383efcbd9be2%2F%2A~hmac=69516308e5314b3c09d555a596bdf0e4dd9c8d7c9dfc1aa846576e0e8f339668/f9a2f346-93c4-4e2d-b1a0-383efcbd9be2/sep/video/0ee2e523/playlist.m3u8?query_string_ranges=1
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,BANDWIDTH=478261,AVERAGE-BANDWIDTH=456000,RESOLUTION=426x240,FRAME-RATE=30.000,CODECS="avc1.640015,mp4a.40.2",AUDIO="audio-low"
+https://3vod-adaptive.akamaized.net/exp=1699897800~acl=%2Ff9a2f346-93c4-4e2d-b1a0-383efcbd9be2%2F%2A~hmac=69516308e5314b3c09d555a596bdf0e4dd9c8d7c9dfc1aa846576e0e8f339668/f9a2f346-93c4-4e2d-b1a0-383efcbd9be2/sep/video/79f53709/playlist.m3u8?query_string_ranges=1
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,BANDWIDTH=705116,AVERAGE-BANDWIDTH=652000,RESOLUTION=640x360,FRAME-RATE=30.000,CODECS="avc1.64001E,mp4a.40.2",AUDIO="audio-low"
+https://3vod-adaptive.akamaized.net/exp=1699897800~acl=%2Ff9a2f346-93c4-4e2d-b1a0-383efcbd9be2%2F%2A~hmac=69516308e5314b3c09d555a596bdf0e4dd9c8d7c9dfc1aa846576e0e8f339668/f9a2f346-93c4-4e2d-b1a0-383efcbd9be2/sep/video/843b2649/playlist.m3u8?query_string_ranges=1
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,BANDWIDTH=6810962,AVERAGE-BANDWIDTH=5402000,RESOLUTION=1920x1080,FRAME-RATE=30.000,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio-high"
+https://3vod-adaptive.akamaized.net/exp=1699897800~acl=%2Ff9a2f346-93c4-4e2d-b1a0-383efcbd9be2%2F%2A~hmac=69516308e5314b3c09d555a596bdf0e4dd9c8d7c9dfc1aa846576e0e8f339668/f9a2f346-93c4-4e2d-b1a0-383efcbd9be2/sep/video/f5ce984f/playlist.m3u8?query_string_ranges=1
