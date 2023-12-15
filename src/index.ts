@@ -24,15 +24,6 @@ import {
 import { Color4, Quaternion, Vector3 } from '@dcl/sdk/math'
 import { initAssetPacks } from '@dcl/asset-packs/dist/scene-entrypoint'
 
-// You can remove this if you don't use any asset packs
-// initAssetPacks(engine, pointerEventsSystem, {
-//   Animator,
-//   AudioSource,
-//   AvatarAttach,
-//   Transform,
-//   VisibilityComponent,
-//   GltfContainer
-// })
 
 import { bounceScalingSystem, circularSystem } from './systems'
 
